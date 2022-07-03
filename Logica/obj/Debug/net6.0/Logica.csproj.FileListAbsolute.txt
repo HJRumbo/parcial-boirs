@@ -1,0 +1,17 @@
+C:\Users\user\OneDrive\Documentos\ProyectosAngular\parcial-boris\Logica\bin\Debug\net6.0\Logica.deps.json
+C:\Users\user\OneDrive\Documentos\ProyectosAngular\parcial-boris\Logica\bin\Debug\net6.0\Logica.dll
+C:\Users\user\OneDrive\Documentos\ProyectosAngular\parcial-boris\Logica\bin\Debug\net6.0\ref\Logica.dll
+C:\Users\user\OneDrive\Documentos\ProyectosAngular\parcial-boris\Logica\bin\Debug\net6.0\Logica.pdb
+C:\Users\user\OneDrive\Documentos\ProyectosAngular\parcial-boris\Logica\bin\Debug\net6.0\Datos.dll
+C:\Users\user\OneDrive\Documentos\ProyectosAngular\parcial-boris\Logica\bin\Debug\net6.0\Entidad.dll
+C:\Users\user\OneDrive\Documentos\ProyectosAngular\parcial-boris\Logica\bin\Debug\net6.0\Datos.pdb
+C:\Users\user\OneDrive\Documentos\ProyectosAngular\parcial-boris\Logica\bin\Debug\net6.0\Entidad.pdb
+C:\Users\user\OneDrive\Documentos\ProyectosAngular\parcial-boris\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documentos\ProyectosAngular\parcial-boris\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Documentos\ProyectosAngular\parcial-boris\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documentos\ProyectosAngular\parcial-boris\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documentos\ProyectosAngular\parcial-boris\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documentos\ProyectosAngular\parcial-boris\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+C:\Users\user\OneDrive\Documentos\ProyectosAngular\parcial-boris\Logica\obj\Debug\net6.0\Logica.dll
+C:\Users\user\OneDrive\Documentos\ProyectosAngular\parcial-boris\Logica\obj\Debug\net6.0\ref\Logica.dll
+C:\Users\user\OneDrive\Documentos\ProyectosAngular\parcial-boris\Logica\obj\Debug\net6.0\Logica.pdb
